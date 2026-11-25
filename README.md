@@ -21,3 +21,6 @@ login.exe
 ```
 
 > This is a learning exercise. The credentials are hard-coded and aren't secure.
+
+## License
+Released under the [MIT License](LICENSE).

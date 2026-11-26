@@ -2,6 +2,8 @@
 
 A simple console login system in C that keeps asking for a username and password until they match. The interface is in Bahasa Indonesia.
 
+![Failed and successful login](screenshot.png)
+
 ## Demo account
 | Username | Password |
 |---|---|
